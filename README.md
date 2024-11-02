@@ -1,6 +1,6 @@
 # DKC: Data-driven and Knowledge-guided Causal Discovery
 
-DKC is a Python-based framework for causal discovery that utilizes observational data and knowledge constraints to estimate causal graphs. This project provides tools to load datasets, estimate causal structures, and evaluate results using metrics like Adjacency Confusion, Arrow Confusion, and Structural Hamming Distance (SHD).
+DKC is a Python-based framework for causal discovery that utilizes observational data and knowledge constraints to estimate causal graphs. This project provides tools to load datasets and prior knowledge, estimate causal structures, and evaluate results using metrics like Adjacency Confusion, Arrow Confusion, and Structural Hamming Distance (SHD).
 
 ## Table of Contents
 - [Installation](#installation)
